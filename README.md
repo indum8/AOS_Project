@@ -105,7 +105,4 @@ File descriptor passing: https://man7.org/linux/man-pages/man3/cmsg.3.html
    Make sure to replace `https://github.com/yourusername/trusted_daemon.git` with the actual URL of your repository. This `README.md` file provides an overview of the project, setup instructions, usage details, and a brief code overview.
    Make sure to replace `https://github.com/yourusername/trusted_daemon.git` with the actual URL of your repository. This `README.md` file provides an overview of the project, setup instructions, usage details, and a brief code overview.
 
-
-   **********************************************************************************************************
-
-   /Users/indumathimadhu/trusted_daemon/AOS_Project/README.md
+**********************************************************************************************************************
